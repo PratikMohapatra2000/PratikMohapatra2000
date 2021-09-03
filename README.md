@@ -1,9 +1,9 @@
 ### Hi there, I'm Pratik 👋
-## I'm a 4th year Integrated MCA Student aka Python Backend Developer!!!
+## I'm a 4th year Integrated MCA Student -aka Python Backend Developer!!!
 
 - ✍️ I’m currently learning Integrated MCA at Utkal University, Odisha, India. 
-- 🎯 2021 Goals: Contribute more to Open Source Backend Projects.
-- ⚡ Fun fact: I love to draw and play guitar / drums.
+- 🎯 2021 Goals: Contribute more to Open Source Backend Projects..
+- ⚡ Fun fact: I love wandering new places, especially beach sides & mountains...
 
 ### Connect with me:
 
