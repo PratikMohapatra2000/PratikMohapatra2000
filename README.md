@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<a href="https://www.w3schools.com"><img align="left" alt="pratik-mohapatra | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
+[<a href="https://www.linkedin.com/in/pratik-mohapatra/"><img align="left" alt="pratik-mohapatra | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
 
 
 ### Languages and Tools:
