@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/pratik-mohapatra/" width="22px" src="https://www.linkedin.com/in/pratik-mohapatra/" />]
+[<img align="left" alt="pratik-mohapatra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 <br />
